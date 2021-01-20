@@ -12,4 +12,4 @@ For this project one will need a chat data file in txt format from the respectiv
 5. Select "Without Media" else it will download media files too.
 6. Then save that file according to your choice or send it to your own Gmail ID.
 
-## You can keep the file in Google Drive or download on your local system & make changes accordingly.
+### You can keep the file in Google Drive or download on your local system & make changes accordingly.
